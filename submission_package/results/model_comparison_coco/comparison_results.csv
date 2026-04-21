@@ -1,0 +1,4 @@
+model,test_accuracy,test_loss,best_val_accuracy,best_val_loss
+MobileNetV2,0.7833,0.5273,0.8056,0.5088
+ResNet50,0.7889,0.5136,0.8167,0.5484
+EfficientNetB0,0.8389,0.4379,0.8333,0.4215
