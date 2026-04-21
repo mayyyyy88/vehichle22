@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.21.0
+numpy==2.2.6
+pillow
+ultralytics
+opencv-python
